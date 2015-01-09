@@ -2,3 +2,5 @@
 **/target
 RemoteSystemsTempFiles/
 .metadata/
+**/.classpath
+**/.settings
