@@ -8,6 +8,5 @@ import java.io.Serializable;
  * @author Mathieu ABOU-AICHI (mathieu.abouaichi@gmail.com)
  */
 public interface DTO extends Serializable {
- 
-
+  
 }
