@@ -10,7 +10,7 @@ import java.util.Calendar;
 public class MetadataDTO implements DTO {
   
   /**
-   * Serial UID.
+   * Serial version UID.
    */
   private static final long serialVersionUID = -519098045228688296L;
   private String title;
